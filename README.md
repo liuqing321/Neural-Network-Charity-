@@ -32,6 +32,18 @@ The purpose of the analysis is to use machine learning to create a binary classi
 
 * How many neurons, layers, and activation functions did you select for your neural network model, and why?
 
-  
+  ![image](https://user-images.githubusercontent.com/88631769/148705050-5284735d-2753-4a08-97aa-76bf616708c5.png)
+
  
+* Were you able to achieve the target model performance?
+
+  No, the highest accuracy I could achieve is 73%. 
+  
+* What steps did you take to try and increase model performance? 
+  
+  Adding more hidden layers and changing the activation function for the hidden layers. 
+  
+### Summary 
+
+The deep learning neural network model did not reach the target of 75% accuracy after 3 attemps. The highest result we could get is 73%. To achieve a higher accuracy, more data needs to be acquired. In a binary classification, we could use a supervised machine learning model to combine numerous decision trees. 
 
